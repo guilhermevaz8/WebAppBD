@@ -3,7 +3,7 @@
 
 Guilherme Vaz, DCC/FCUP
 
-Aplicação Python demonstrando o acesso à BD MovieStream
+Aplicação Python demonstrando o acesso à BD
 
 #  Referência
 
